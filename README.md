@@ -9,7 +9,7 @@
 - 🌱 I’m currently improving my knowledge in machine learning.
 - 👯 I’m looking to collaborate on data analysis projects.
 - 🤔 I’m looking for help with taking the maximum knowledge from data analysis.
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: edgartome@gmail.cpm
-- 😄 Pronouns: He/Him
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: edgartome@gmail.com .
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact:  I have lived in 6 countries, with very good experiences.
