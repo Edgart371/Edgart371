@@ -12,4 +12,5 @@
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: edgartome@gmail.com .
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact:  I have lived in 6 countries, with very good experiences.
+- ⚡ Languages: Python3, SQL, Tableu
+- Fun fact:  I have lived in 6 countries, with very good experiences.
