@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Edgart371/Edgart371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - Hi, I am Data / Business Analyst, proficient in Python, Tableau, MySQL, Data Visualization and Data Modelling, with over 10+ years of experience as a Senior Civil Engineering and Construction Management, that can be applied in perceiving the business goal of the data-driven projects.
 
@@ -15,4 +13,3 @@
 - 📫 How to reach me: edgartome@gmail.cpm
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I have lived in 6 countries, with very good experiences.
--->
