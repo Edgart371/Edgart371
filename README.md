@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on time series with prophet.
 - 🌱 I’m currently improving my knowledge in machine learning.
 - 👯 I’m looking to collaborate on data analysis projects.
-- 🤔 I’m looking for help with taking the maximum knowledge from data analysis.
+- 🤔 I’m looking for help with taking the maximum knowledge using data analysis.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: edgartome@gmail.com .
 - ⚡ Languages: Python3, SQL, Tableu
