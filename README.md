@@ -12,6 +12,6 @@
 - 🤔 I’m looking for help with taking the maximum knowledge using data analysis.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: edgartome@gmail.com .
-- ⚡ Languages: Python3, SQL, Tableu
+- ⚡ Technologies: Git, MySQL, Python, Pandas, Numpy, Web Scraping (Beautiful Soup), MatplotLib, Seaborn, Scipy, Scikit-Learn, Tableau.
 - Fun fact: I have experienced new cultures living in 6 countries Portugal 🇵🇹, Mozambique 🇲🇿, Angola 🇦🇴, Norway 🇳🇴, Bolivia 🇧🇴, and France 🇫🇷, it always exciting the explore the world, with very good experiences.
-- Hobby: I like to ride my 🚲
+- Hobby: I like to ride my 🚲, and travel.
