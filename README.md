@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- Hi, I am Data / Business Analyst, proficient in Python, Tableau, MySQL, Data Visualization and Data Modelling, with over 10+ years of experience as a Senior Civil Engineering and Construction Management, that can be applied in perceiving the business goal of the data-driven projects.
+- Hi, I am Data Analyst / Business Analyst, proficient in Python, Tableau, MySQL, Data Visualization, and Data Modelling, with over 10+ years of experience as a Senior Civil Engineering and Construction Management, which can be applied in perceiving the business goal of data-driven projects.
 
-- Throughout my career have worked in 4 countries, Portugal 🇵🇹, Mozambique 🇲🇿, Angola 🇦🇴, Bolivia 🇧🇴, I have developed a deep technical knowledge in engineering, management and data analysis, leading of multidisciplinary teams, people management, management of critical situations where quick and effective response had to be taken under pressure, budgeting and time controlling, client relationship management.
+- Throughout my career have worked in 4 countries, Portugal 🇵🇹, Mozambique 🇲🇿, Angola 🇦🇴, Bolivia 🇧🇴, I have developed deep technical knowledge in engineering, management, and data analysis, leading multidisciplinary teams, people management, management of critical situations where quick and effective response had to be taken under pressure, budgeting and time controlling, client relationship management.
 
 - 😄 Pronouns: He/Him.
 - 🔭 I’m currently working on time series with prophet.
